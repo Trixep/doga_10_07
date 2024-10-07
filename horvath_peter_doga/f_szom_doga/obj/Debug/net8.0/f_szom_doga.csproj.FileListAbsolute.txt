@@ -1,0 +1,14 @@
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\bin\Debug\net8.0\f_szom_doga.exe
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\bin\Debug\net8.0\f_szom_doga.deps.json
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\bin\Debug\net8.0\f_szom_doga.runtimeconfig.json
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\bin\Debug\net8.0\f_szom_doga.dll
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\bin\Debug\net8.0\f_szom_doga.pdb
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\obj\Debug\net8.0\f_szom_doga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\obj\Debug\net8.0\f_szom_doga.AssemblyInfoInputs.cache
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\obj\Debug\net8.0\f_szom_doga.AssemblyInfo.cs
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\obj\Debug\net8.0\f_szom_doga.csproj.CoreCompileInputs.cache
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\obj\Debug\net8.0\f_szom_doga.dll
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\obj\Debug\net8.0\refint\f_szom_doga.dll
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\obj\Debug\net8.0\f_szom_doga.pdb
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\obj\Debug\net8.0\f_szom_doga.genruntimeconfig.cache
+C:\Users\horvath.peter\Desktop\horvath_peter_doga\f_szom_doga\obj\Debug\net8.0\ref\f_szom_doga.dll
